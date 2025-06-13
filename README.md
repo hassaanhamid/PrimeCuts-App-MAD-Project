@@ -1,5 +1,6 @@
 ## MEAT DELIVERY APPLICATION --- PrimeCuts
-A full-stack MERN application for ordering fresh meat online. This project enables users to register, browse meat categories, add products to cart, place orders, and track delivery—all with a smooth and responsive experience.
+A full-stack MERN application for ordering fresh meat products online. This project enables users to register, browse meat categories, 
+add products to cart, place orders, and track delivery—all with a smooth and responsive experience and with minimal hassle.
 
 ## Features
 - 👤 **User Management**: Register, Login
