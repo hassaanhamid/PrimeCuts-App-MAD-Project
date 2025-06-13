@@ -14,22 +14,22 @@ add products to cart, place orders, and track delivery—all with a smooth and r
 ## Technologies Used
 
 **Frontend**:
-* React.js – The foundation of a dynamic and modular UI.
+* React.js
 
-* Vite – Lightning-fast builds and instant hot reloads for seamless development.
+* Vite
 
-* Axios – Effortless HTTP requests for smooth API communication.
+* Axios
 
-* CSS / Responsive UI – Polished design that adapts to every screen.
+* CSS / Responsive UI
 
 **Backend**:
-* Node.js – A powerful runtime environment for scalable server-side logic.
+* Node.js
 
-* Express.js – Minimal and flexible framework for building robust APIs.
+* Express.js
 
-* MongoDB (with Mongoose) – NoSQL database with intuitive data modeling.
+* MongoDB (with Mongoose)
 
-* Cloudinary – Cloud-based media management for optimized image handling.
+* Cloudinary (cloud-based)
 
 ------------------------------
 Dependencies: NPM (Front and Backend), Vite (Frontend)
