@@ -8,7 +8,6 @@ A full-stack MERN application for ordering fresh meat online. This project enabl
 - 🛒 **Cart & Orders**: Add to cart, place orders, and track status
 - 💳 **Payment Support**: Cash or online payments via Stripe
 - 🚚 **Order Tracking**: Real-time updates on order status
-- 🔐 **JWT Authentication**: Secure access using tokens
 - 📱 **Mobile Friendly:** Responsive design for mobile, tablet, and desktop views.
 
   ## Technologies Used
