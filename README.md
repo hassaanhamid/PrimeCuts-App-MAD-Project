@@ -6,7 +6,7 @@ A full-stack MERN application for ordering fresh meat online. This project enabl
 - 📁 **Category Listing**: Organized meat items by category (e.g., chicken, beef)
 - 🍖 **Product Browsing**: Explore various meat items with details and images
 - 🛒 **Cart & Orders**: Add to cart, place orders, and track status
-- 💳 **Payment Support**: Cash or online payments via Stripe
+- 💳 **Payment Support**: Cash or online payments
 - 🚚 **Order Tracking**: Real-time updates on order status
 - 📱 **Mobile Friendly:** Responsive design for mobile, tablet, and desktop views.
 
