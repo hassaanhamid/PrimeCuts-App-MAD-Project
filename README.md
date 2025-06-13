@@ -13,13 +13,13 @@ A full-stack MERN application for ordering fresh meat online. This project enabl
 ## Technologies Used
 
 - **Frontend**:
-  - React.js
-  - Vite
+  - React.js -Standard
+  - Vite - For a smooth and fast Frotend Experience
   - Axios 
   - CSS / Responsive UI
 
 - **Backend**:
   - Node.js
   - Express.js
-  - MongoDB (with Mongoose)
+  - MongoDB (with Mongoose) 
   - Cloudinary (cloud-based)
