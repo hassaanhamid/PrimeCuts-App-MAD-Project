@@ -10,7 +10,7 @@ A full-stack MERN application for ordering fresh meat online. This project enabl
 - 🚚 **Order Tracking**: Real-time updates on order status
 - 📱 **Mobile Friendly:** Responsive design for mobile, tablet, and desktop views.
 
-  ## Technologies Used
+## Technologies Used
 
 - **Frontend**:
   - React.js
