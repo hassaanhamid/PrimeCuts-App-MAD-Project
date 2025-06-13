@@ -13,7 +13,7 @@ add products to cart, place orders, and track delivery—all with a smooth and r
 
 ## Technologies Used
 
-- **Frontend**:
+**Frontend**:
 * React.js – The foundation of a dynamic and modular UI.
 
 * Vite – Lightning-fast builds and instant hot reloads for seamless development.
@@ -22,7 +22,7 @@ add products to cart, place orders, and track delivery—all with a smooth and r
 
 * CSS / Responsive UI – Polished design that adapts to every screen.
 
-- **Backend**:
+**Backend**:
 * Node.js – A powerful runtime environment for scalable server-side logic.
 
 * Express.js – Minimal and flexible framework for building robust APIs.
