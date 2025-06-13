@@ -14,13 +14,19 @@ add products to cart, place orders, and track delivery—all with a smooth and r
 ## Technologies Used
 
 - **Frontend**:
-  - React.js -Standard
-  - Vite - For a smooth and fast Frotend Experience
-  - Axios 
-  - CSS / Responsive UI
+* React.js – The foundation of a dynamic and modular UI.
+
+* Vite – Lightning-fast builds and instant hot reloads for seamless development.
+
+* Axios – Effortless HTTP requests for smooth API communication.
+
+* CSS / Responsive UI – Polished design that adapts to every screen.
 
 - **Backend**:
-  - Node.js
-  - Express.js
-  - MongoDB (with Mongoose) 
-  - Cloudinary (cloud-based)
+* Node.js – A powerful runtime environment for scalable server-side logic.
+
+* Express.js – Minimal and flexible framework for building robust APIs.
+
+* MongoDB (with Mongoose) – NoSQL database with intuitive data modeling.
+
+* Cloudinary – Cloud-based media management for optimized image handling.
