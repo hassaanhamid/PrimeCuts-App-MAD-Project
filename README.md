@@ -30,3 +30,6 @@ add products to cart, place orders, and track delivery—all with a smooth and r
 * MongoDB (with Mongoose) – NoSQL database with intuitive data modeling.
 
 * Cloudinary – Cloud-based media management for optimized image handling.
+
+------------------------------
+Dependencies: NPM (Front and Backend), Vite (Frontend)
